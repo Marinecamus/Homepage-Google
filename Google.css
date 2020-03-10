@@ -1,0 +1,80 @@
+.up{
+  text-align: right;
+}
+a{
+  text-decoration: none;
+  color: #313232
+}
+a:hover{
+  color:grey;
+  text-decoration:underline;
+}
+
+.button{
+  padding: 10px 20px;
+  background: blue;
+  color:white;
+}
+.logo{
+  text-align: center;
+  padding-top: 112px;
+  padding-bottom: 20px;
+}
+.downleft{
+  text-align: downleft;
+  text-decoration-color:#A9A9AA;
+  float: left;
+}
+.downright{
+  text-align: downright;
+  float: right;
+  text-decoration-color:#A9A9AA;
+}
+
+.footer{
+  padding-top: 270px;
+  }
+
+footer ul li{
+  display:inline;
+
+
+}
+.downleft ul li{
+  float: left;
+  display: inline;
+}
+
+.downright ul li {
+  float: right;
+  display: inline;
+
+}
+.header{
+  width: 100%;
+}
+
+.form{
+  text-align: center;
+  padding: 10px 20px;
+
+ }
+.buttonsgoogle{
+  text-align: center;
+}
+.downbackground{
+  background-color:#F1F0F0;
+}
+downbackground1{
+  background-color:#F1F0F0;
+}
+
+.recherche{
+  background-color: #F5F5F5;
+  padding: 10px 20px;
+}
+
+.lucky{
+  background-color: #F5F5F5;
+  padding: 10px 20px;
+}
